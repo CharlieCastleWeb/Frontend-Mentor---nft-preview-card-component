@@ -145,5 +145,11 @@ footer {
     color: hsl(215, 51%, 70%);
 }
 
+footer a:hover,
+footer a:focus {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: white; }
